@@ -1,0 +1,20 @@
+{
+  "name": "fake-shop-site-img",
+  "version": "1.0.0",
+  "description": "Fake site to show the zoomed image of on hover on a shopping site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superhit0/fake-shop-site-img.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superhit0/fake-shop-site-img/issues"
+  },
+  "homepage": "https://github.com/superhit0/fake-shop-site-img#readme"
+}
